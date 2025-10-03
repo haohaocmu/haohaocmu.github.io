@@ -7,5 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello world! I'm a 5th-year PhD student at the Heinz College, Carnegie Mellon University. I work on optimization under uncertainty. 
+I'm a 5th-year PhD student at the Heinz College, Carnegie Mellon University. I work on optimization under uncertainty. 
+
+
+### Publication
+
+Robust Paths: Geometry and Computation
+
 
