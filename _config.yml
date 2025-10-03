@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hao Hao / Hao Hao"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Hao Hao"
 title_separator          : "-"
 name                     : &name "Hao Hao"
 description              : &description "Hao Hao's academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://haohaocmu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haohaocmu/haohaocmu.github.io"
+repository               : #"haohaocmu/haohaocmu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -252,15 +252,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
+  
   # _publications
   - scope:
       path: ""
@@ -270,15 +272,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
+  
   # _talks
   - scope:
       path: ""
