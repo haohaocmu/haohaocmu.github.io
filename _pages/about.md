@@ -11,12 +11,12 @@ Hello! I am a 5th-year PhD student at the Heinz College, Carnegie Mellon Univers
 
 I work on decision-making under uncertainty (i.e., optimization under uncertain parameters) with a particular interest in its efficient computation. Such problems are ubiquitous across real-world applications, e.g., supply chain management under uncertain demand and risk of disruptions, and autonomous driving in uncertain physical environments. My current work focuses on efficiently computing entire solution sets under various levels of robustness and efficiency trade-off.
 
-[Link to my CV](https://haohaocmu.github.io/files/CV_HaoHao.pdf).
+[[Link to my CV]](https://haohaocmu.github.io/files/CV_HaoHao.pdf).
 
 
 ## Job-Market Paper
 
-**Robust Paths: Geometry and Computation** [Link](https://arxiv.org/pdf/2508.20039)
+**Robust Paths: Geometry and Computation** [[Link]](https://arxiv.org/pdf/2508.20039)
 
 Hao Hao and Peter Zhang
 - Finalist, 2025 George Nicholson Student Paper Competition
