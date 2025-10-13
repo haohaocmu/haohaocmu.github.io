@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Hao Hao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a 5th-year PhD student at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by Prof. Peter Zhang. 
+Hello! I am a 5th-year PhD candidate at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by Prof. Peter Zhang. 
 
 I work on decision-making under uncertainty (i.e., optimization under uncertain parameters) with a particular interest in its efficient computation. Such problems are ubiquitous across real-world applications, e.g., supply chain management under uncertain demand and risk of disruptions, and autonomous driving in uncertain physical environments. My current work focuses on efficiently computing entire solution sets under various levels of robustness and efficiency trade-off.
 
