@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a 5th-year PhD student at the Heinz College, Carnegie Mellon University. I work on decision-making under uncertainty with a particular interest in its efficient computation. I am interested in applications in supply chains, mobility, and safe ML. I am fortunate to be advised by Prof. Peter Zhang. 
+Hi! I am a 5th-year PhD student at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by Prof. Peter Zhang. 
+
+I work on decision-making under uncertainty, i.e., how to solve optimization under uncertain parameters. Such a problem is ubiquitous across real-world applications, e.g., supply chain management under uncertain demand  and risk of disruptions, and autonomous driving under uncertain physical environments. My current work focuses on efficiently computing entire solution sets under various levels of robustness and efficiency trade-off.
+
+
 
 
 ## Job-Market Paper
