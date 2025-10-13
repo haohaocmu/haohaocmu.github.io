@@ -14,4 +14,7 @@ I'm a 5th-year PhD student at the Heinz College, Carnegie Mellon University. I w
 
 Robust Paths: Geometry and Computation
 
+- Finalist, 2025 George Nicolson Student Paper Competition
+- Winner, 2025 INFORMS Computing Society Student Paper Award
+
 
