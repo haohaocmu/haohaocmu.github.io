@@ -13,6 +13,7 @@ Hi! I am a 5th-year PhD student at the Heinz College, Carnegie Mellon University
 ## Job-Market Paper
 
 Robust Paths: Geometry and Computation [Link](https://arxiv.org/pdf/2508.20039)
+
 Hao Hao and Peter Zhang
 - Finalist, 2025 George Nicholson Student Paper Competition
 - Winner, 2025 INFORMS Computing Society Student Paper Award
@@ -20,9 +21,11 @@ Hao Hao and Peter Zhang
 ## Working Papers
 
 Assessing and Explaining the Efficiency of Urban Transportation Networks
+
 with Hai Wang and Peter Zhang
 
 Submodular Learning for Risk-Aware Prediction-Optimization: Applications in Distributed Healthcare
+
 with Peiyu Wang, Shuwei He, Holly Wiberg, and Peter Zhang
 
 
