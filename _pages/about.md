@@ -19,7 +19,7 @@ I work on decision-making under uncertainty (i.e., optimization under uncertain 
 **Robust Paths: Geometry and Computation** [[Link]](https://arxiv.org/pdf/2508.20039)
 
 Hao Hao and Peter Zhang
-- Finalist, 2025 George Nicholson Student Paper Competition
+- First Place, 2025 George Nicholson Student Paper Competition
 - Winner, 2025 INFORMS Computing Society Student Paper Award
 
 ## Working Papers
