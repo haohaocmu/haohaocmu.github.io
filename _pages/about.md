@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 5th-year PhD candidate at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by Prof. Peter Zhang. 
+Hello! I am a 5th-year PhD candidate at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by [Prof. Peter Zhang](https://www.heinz.cmu.edu/faculty-research/profiles/zhang-peter). 
 
 I work on decision-making under uncertainty (i.e., optimization under uncertain parameters) with a particular interest in its efficient computation. Such problems are ubiquitous across real-world applications, e.g., supply chain management under uncertain demand and risk of disruptions, and autonomous driving in uncertain physical environments. My current work focuses on efficiently computing entire solution sets under various levels of robustness and efficiency trade-off.
 
@@ -20,7 +20,7 @@ I work on decision-making under uncertainty (i.e., optimization under uncertain 
 
 Hao Hao and Peter Zhang
 - First Place, 2025 George Nicholson Student Paper Competition
-- Winner, 2025 INFORMS Computing Society Student Paper Award
+- Winner, 2025 INFORMS Computing Society Student Paper Award [[Citation]](https://connect.informs.org/discussion/congratulations-to-hao-hao-on-winning-the-2025-ics-student-paper-award-as-well-as-to-thomas-hbner-runner-up-yupeng-wu-and-matas-villagra-honorable-mentions-1)
 
 ## Working Papers
 
