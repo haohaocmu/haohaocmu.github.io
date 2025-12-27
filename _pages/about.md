@@ -20,7 +20,7 @@ I work on decision-making under uncertainty (i.e., optimization under uncertain 
 
 Hao Hao and Peter Zhang
 
-Major Revision at Operations Research 
+*Major Revision at Operations Research*
 
 - First Place, 2025 George Nicholson Student Paper Competition 
 - First Place, 2025 INFORMS Computing Society Student Paper Award [[Citation]](https://connect.informs.org/discussion/congratulations-to-hao-hao-on-winning-the-2025-ics-student-paper-award-as-well-as-to-thomas-hbner-runner-up-yupeng-wu-and-matas-villagra-honorable-mentions-1)
