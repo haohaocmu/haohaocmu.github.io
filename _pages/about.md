@@ -14,7 +14,7 @@ I work on decision-making under uncertainty (i.e., optimization under uncertain 
 [[Link to my CV]](https://haohaocmu.github.io/files/CV_HaoHao.pdf).
 
 
-## Job-Market Paper
+## Finished Articles
 
 **Robust Paths: Geometry and Computation** [[Link]](https://arxiv.org/pdf/2508.20039)
 
@@ -22,8 +22,8 @@ Hao Hao and Peter Zhang
 
 *Major Revision at Operations Research*
 
-- First Place, 2025 George Nicholson Student Paper Competition 
-- First Place, 2025 INFORMS Computing Society Student Paper Award [[Citation]](https://connect.informs.org/discussion/congratulations-to-hao-hao-on-winning-the-2025-ics-student-paper-award-as-well-as-to-thomas-hbner-runner-up-yupeng-wu-and-matas-villagra-honorable-mentions-1)
+- **First Place, 2025 George Nicholson Student Paper Competition**
+- **First Place, 2025 INFORMS Computing Society Student Paper Award** [[Citation]](https://connect.informs.org/discussion/congratulations-to-hao-hao-on-winning-the-2025-ics-student-paper-award-as-well-as-to-thomas-hbner-runner-up-yupeng-wu-and-matas-villagra-honorable-mentions-1)
 
 ## Working Papers
 
@@ -45,7 +45,8 @@ Teaching Assistant, Heinz College, Carnegie Mellon University
 ## Talks
 
 **Robust Paths: Geometry and Computation**
- - INFORMS Annual Meeting (Upcoming) 2025
+ - 
+ - INFORMS Annual Meeting 2025
  - YinzOR, Flash Talk Competition, Carnegie Mellon University 2025
  - INFORMS Annual Meeting 2024
  
