@@ -45,7 +45,6 @@ Teaching Assistant, Heinz College, Carnegie Mellon University
 ## Talks
 
 **Robust Paths: Geometry and Computation**
- - 
  - INFORMS Annual Meeting 2025
  - YinzOR, Flash Talk Competition, Carnegie Mellon University 2025
  - INFORMS Annual Meeting 2024
