@@ -23,7 +23,7 @@ repository               : #"haohaocmu/haohaocmu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hao_profile.jpg"
+  avatar           : "Hao_profile.JPG"
   name             : "Hao Hao"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
