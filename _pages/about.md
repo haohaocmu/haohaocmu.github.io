@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 5th-year PhD candidate at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by [Prof. Peter Zhang](https://www.heinz.cmu.edu/faculty-research/profiles/zhang-peter). 
+Hello! I am a PhD candidate at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by [Prof. Peter Zhang](https://www.heinz.cmu.edu/faculty-research/profiles/zhang-peter). 
 
 I work on decision-making under uncertainty (i.e., optimization under uncertain parameters) with a particular interest in its efficient computation. Such problems are ubiquitous across real-world applications, e.g., supply chain management under uncertain demand and risk of disruptions, and autonomous driving in uncertain physical environments. My current work focuses on efficiently computing entire solution sets under various levels of robustness and efficiency trade-off.
 
-[[Link to my CV]](https://haohaocmu.github.io/files/CV_HaoHao.pdf).
+[[**Link to my CV**]](https://haohaocmu.github.io/files/CV_HaoHao.pdf).
 
+**I am on the 2026-2027 academic job market**
 
 ## Finished Articles
 
-**Robust Paths: Geometry and Computation** [[Link]](https://arxiv.org/pdf/2508.20039)
+**Robust Paths: Geometry and Computation** [[**Link**]](https://arxiv.org/pdf/2508.20039)
 
 Hao Hao and Peter Zhang
 
