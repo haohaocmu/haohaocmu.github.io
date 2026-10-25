@@ -24,13 +24,7 @@ I work on extending the practical capability of decision-making under uncertaint
 
 **My upcoming talk at INFORMS in SF:**
 
-When: Sunday, November 1, 3:21 PM - 3:39 PM
-
-Where: Moscone South-204 (Level 2)
-
-Session: “Fair Allocation, Consumer Behavior, and Illicit Networks”
-
-Title: “Robust Paths: Geometry and Computation”
+Time: Sunday, November 1, 3:21 PM - 3:39 PM | Location: Moscone South-204 (Level 2) | Session: “Fair Allocation, Consumer Behavior, and Illicit Networks” | Title: “Robust Paths: Geometry and Computation”
 
 
 ## Finished Articles
