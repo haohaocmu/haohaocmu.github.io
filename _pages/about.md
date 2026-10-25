@@ -15,6 +15,13 @@ I work on decision-making under uncertainty (i.e., optimization under uncertain 
 
 **I am on the 2026-2027 academic job market.**
 
+My upcoming talk at INFORMS in SF:
+When: Sunday, November 1, 3:21 PM - 3:39 PM
+Where: Moscone South-204 (Level 2)
+Session: “Fair Allocation, Consumer Behavior, and Illicit Networks”
+Title: “Robust Paths: Geometry and Computation”
+
+
 ## Finished Articles
 
 **Robust Paths: Geometry and Computation** [[**Link**]](https://arxiv.org/pdf/2508.20039)
@@ -26,15 +33,25 @@ Hao Hao and Peter Zhang
 - [**First Place, 2025 George Nicholson Student Paper Competition**](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-Nicholson-Student-Paper-Competition)
 - [**First Place, 2025 INFORMS Computing Society Student Paper Award**](https://connect.informs.org/discussion/congratulations-to-hao-hao-on-winning-the-2025-ics-student-paper-award-as-well-as-to-thomas-hbner-runner-up-yupeng-wu-and-matas-villagra-honorable-mentions-1)
 
+**Geometry-Informed Tracing of Model Adaptation Path under Capability Constraints**
+
+Hao Hao and Peter Zhang
+
+*NeurIPS 2026 Workshop on ML×OR*
+
 ## Working Papers
 
 **Assessing and Explaining the Efficiency of Urban Transportation Networks**
 
 with Hai Wang and Peter Zhang
 
+**Monotonicity of Robust Resource Allocation Against Uncertainty**
+with Mark Brennan and Peter Zhang
+
 **Submodular Learning for Risk-Aware Prediction-Optimization: Applications in Distributed Healthcare**
 
 with Peiyu Wang, Shuwei He, Holly Wiberg, and Peter Zhang
+
 
 
 ## Teaching
