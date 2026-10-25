@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a PhD candidate at the Heinz College, Carnegie Mellon University. I am fortunate to be advised by [Prof. Peter Zhang](https://www.heinz.cmu.edu/faculty-research/profiles/zhang-peter). 
 
-I work on extending the practical capability of decision-making under uncertainty. Making robust decisions typically costs decision-makers more computation; I work on reducing this computational overhead, closing the gap between decision-making under uncertainty theory, computation, and practice. To this end, my research has two interacting themes:
+I work on extending the practical capability of decision-making under uncertainty. Making robust decisions typically costs decision-makers more computation; I work on reducing this computational overhead, towards closing the gap between decision-making under uncertainty theory, computation, and practice. To this end, my research has two interacting themes:
 
 - I reveal new ways to understand the structure of optimal decisions that are robust against uncertainty.
   
