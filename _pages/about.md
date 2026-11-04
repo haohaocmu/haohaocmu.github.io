@@ -15,6 +15,12 @@ I work on extending the practical capability of decision-making under uncertaint
   
 - Leveraging the new structural insights, I develop new faster algorithms to compute robust decisions.
 
+Subsequently, I deploy these new technologies towards:
+
+- Protecting Senegal's road network against flood risk and policy risk.
+  
+- Scaling Hospital-at-Home operations safely under dynamic and uncertain patient conditions.
+
 
 [[**Link to my CV**]](https://haohaocmu.github.io/files/CV_HaoHao.pdf).
 
@@ -54,13 +60,13 @@ with Hai Wang and Peter Zhang
 
 <br>
 
-**Monotonicity of Robust Resource Allocation Against Uncertainty**
+**Protecting Senegal’s Road Network Against Flood Risk and Policy Risk**
 
 with Mark Brennan and Peter Zhang
 
 <br>
 
-**Submodular Learning for Risk-Aware Prediction-Optimization: Applications in Distributed Healthcare**
+**Scaling Hospital-at-Home with Streamlined Data-to-Decision**
 
 with Holly Wiberg, and Peter Zhang
 
