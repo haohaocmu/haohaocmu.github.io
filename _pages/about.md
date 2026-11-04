@@ -66,7 +66,7 @@ with Mark Brennan and Peter Zhang
 
 <br>
 
-**Scaling Hospital-at-Home Safely with Online Data to Robust Decisions**
+**Scaling Hospital-at-Home Safely with Streamlined Data-to-Decisions**
 
 with Holly Wiberg, and Peter Zhang
 
